@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x5C1B3f5486cf342e491Ce316e98281822b800979",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0x5C1B3f5486cf342e491Ce316e98281822b800979",
+  "NETWORK": {
+    "NAME": "SmartBCH",
+    "SYMBOL": "BCH",
+    "ID": 10000
+  },
+  "NFT_NAME": "Arachnids",
+  "SYMBOL": "SPIDER",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Oasis",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/Arachnids",
+  "SHOW_BACKGROUND": true,
+  "LAUNCH_DATE": "2022-02-01T00:00:00.000-08:00"
+  
+}
